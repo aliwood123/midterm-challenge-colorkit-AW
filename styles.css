@@ -1,9 +1,4 @@
-/* Diagnostic Styling */
-* {
-  outline: 1px dotted gray; 
+body {
+  height: 100vh;
 }
 
-/* temp background color */
-body {
-    background: salmon;
-  }
